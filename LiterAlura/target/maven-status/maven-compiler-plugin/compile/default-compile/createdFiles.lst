@@ -1,0 +1,16 @@
+com\alura\literalura\service\LivroService.class
+com\alura\literalura\service\GutendexService$2.class
+com\alura\literalura\LiteraluraApplication.class
+com\alura\literalura\controller\BookController.class
+com\alura\literalura\repository\LivroRepository.class
+com\alura\literalura\service\GutendexService.class
+com\alura\literalura\model\Autor.class
+com\alura\literalura\console\ConsoleApp.class
+com\alura\literalura\model\Livro.class
+com\alura\literalura\console\ConsoleTest.class
+com\alura\literalura\service\GutendexResponse.class
+com\alura\literalura\dto\LivroDTO.class
+com\alura\literalura\service\ApiLivroService.class
+com\alura\literalura\dto\AutorDTO.class
+com\alura\literalura\service\GutendexService$1.class
+com\alura\literalura\console\MenuConsole.class
